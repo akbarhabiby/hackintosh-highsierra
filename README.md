@@ -1,5 +1,6 @@
 # hackintosh-highsierra
 Success Hackintosh macOS High Sierra 10.13.6 Build 17G14033
+Date : 10 October 2020
 
 ### PC Full Specifications
 - Motherboard : ASRock B365M Phantom Gaming 4
