@@ -59,10 +59,10 @@ Success Hackintosh macOS High Sierra 10.13.6 Build 17G14033
 
 ## ScreenShots
 ### Display
-![Main](screenshots/main.png?raw=true)
+![Main ScreenShot](screenshots/main.png?raw=true)
 
 ### Audio
-![Main](screenshots/audio.png?raw=true)
+![Audio ScreenShot](screenshots/audio.png?raw=true)
 
 ### RAM
-![Main](screenshots/ram.png?raw=true)
+![RAM ScreenShot](screenshots/ram.png?raw=true)
