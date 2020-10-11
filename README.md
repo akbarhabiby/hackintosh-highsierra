@@ -53,7 +53,7 @@ Success Hackintosh macOS High Sierra 10.13.6 Build 17G14033
 ### Keep Hacking! XD
 
 ## ScreenShots
-### Main
+### Display
 ![Main](screenshots/main.png?raw=true)
 
 ### Audio
