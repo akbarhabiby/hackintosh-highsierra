@@ -40,7 +40,7 @@ Success Hackintosh macOS High Sierra 10.13.6 Build 17G14033
 ### Boot args
 > dart=0 -no_compat_check alcid=3 nvda_drv=1
 
-### Config
+### Configs
 - NeverHibernate
 - NeverDoRecovery
 - AppleRTC
