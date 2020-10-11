@@ -50,6 +50,11 @@ Success Hackintosh macOS High Sierra 10.13.6 Build 17G14033
 - NvidiaWeb
 - Etc
 
+### Useful Links
+- https://www.olarila.com/
+- https://www.tonymacx86.com/
+- https://www.balena.io/etcher/
+
 ### Keep Hacking! XD
 
 ## ScreenShots
